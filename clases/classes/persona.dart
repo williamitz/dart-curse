@@ -42,5 +42,11 @@ class Persona {
     this.age = age;
   }
 
+  // constructor con nombre
+
+  Persona.person30(this._nombre) {
+    this.age = 30;
+  }
+
   // métodos
 }

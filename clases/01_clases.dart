@@ -1,7 +1,7 @@
 import 'classes/persona.dart';
 
 void main() {
-  final william = Persona(name: 'william', age: 28);
+  final william = Persona.person30('William');
 
   // william..name = 'william'
   // william.age = 28;
